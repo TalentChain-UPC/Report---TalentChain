@@ -1,8 +1,9 @@
 ## **TP-Report**
 
 ### **Universidad Peruana de Ciencias Aplicadas**
-<img src="./media/image10.png"
-style="width:1.95313in;height:1,95313in" />
+
+<img src="./media/image15.png"
+style="width:1.95313in;height:1.95313in"/>
 
 ## 
 
@@ -14,7 +15,7 @@ style="width:1.95313in;height:1,95313in" />
 
 #### **Docente: Royer Edelwer Rojas Malasquez** 
 
-#### **Informe TB1**
+#### **Informe TB2**
 
 #### **Startup: TalentChain**
 
@@ -144,6 +145,36 @@ informe</th>
 <th>Rony Ticona</th>
 <th style="text-align: left;">Web Application Wireflow Diagrams</th>
 </tr>
+<tr>
+<th style="text-align: left;">2.1</th>
+<th style="text-align: left;">21/06</th>
+<th>Jorge Quilla</th>
+<th style="text-align: left;">Api Rest</th>
+</tr>
+<tr>
+<th style="text-align: left;">2.2</th>
+<th style="text-align: left;">21/06</th>
+<th>Brayan Gamboa</th>
+<th style="text-align: left;">Web Application</th>
+</tr>
+<tr>
+<th style="text-align: left;">2.3</th>
+<th style="text-align: left;">21/06</th>
+<th>Luis Aquije</th>
+<th style="text-align: left;">Api Rest</th>
+</tr>
+<tr>
+<th style="text-align: left;">2.4</th>
+<th style="text-align: left;">21/06</th>
+<th>Jeremy Antonio</th>
+<th style="text-align: left;">UX/UI Design</th>
+</tr>
+<tr>
+<th style="text-align: left;">3.0</th>
+<th style="text-align: left;">21/06</th>
+<th>Rony Ticona</th>
+<th style="text-align: left;">UX/UI Design</th>
+</tr>
 </thead>
 <tbody>
 </tbody>
@@ -155,287 +186,354 @@ informe</th>
 
 [**Student Outcome 7**](#student-outcome)
 
-[**Capítulo I: Introducción 10**](#capítulo-i-introducción)
+[**Capítulo I: Introducción 11**](#capítulo-i-introducción)
 
-> [1.1. Startup Profile 10](#startup-profile)
+> [1.1. Startup Profile 11](#startup-profile)
 >
-> [1.1.1. Descripción de la Startup 10](#descripción-de-la-startup)
+> [1.1.1. Descripción de la Startup 11](#descripción-de-la-startup)
 >
-> [1.2.1 Antecedentes y problemática 13](#antecedentes-y-problemática)
+> [1.2.1 Antecedentes y problemática 14](#antecedentes-y-problemática)
 >
-> [1.2.2 Lean UX Process 15](#lean-ux-process)
+> [1.2.2 Lean UX Process 16](#lean-ux-process)
 >
-> [1.3. Segmentos objetivos 18](#segmentos-objetivos)
+> [1.3. Segmentos objetivos 20](#segmentos-objetivos)
 
 [**Capítulo II: Requirements Elicitation & Analysis
-19**](#capítulo-ii-requirements-elicitation-analysis)
+20**](#capítulo-ii-requirements-elicitation-analysis)
 
-> [2.1. Competidores 19](#competidores)
+> [2.1. Competidores 20](#competidores)
 >
-> [2.1.1. Análisis competitivo 19](#análisis-competitivo)
+> [2.1.1. Análisis competitivo 20](#análisis-competitivo)
 >
 > [2.1.2. Estrategias y tácticas frente a competidores
-> 23](#estrategias-y-tácticas-frente-a-competidores)
+> 24](#estrategias-y-tácticas-frente-a-competidores)
 >
-> [2.2. Entrevistas 24](#entrevistas)
+> [2.2. Entrevistas 25](#entrevistas)
 >
-> [2.2.1. Diseño de entrevistas 24](#diseño-de-entrevistas)
+> [2.2.1. Diseño de entrevistas 25](#diseño-de-entrevistas)
 >
-> [2.2.2. Registro de entrevistas 25](#registro-de-entrevistas)
+> [2.2.2. Registro de entrevistas 27](#registro-de-entrevistas)
 >
-> [2.2.3. Análisis de entrevistas 29](#análisis-de-entrevistas)
+> [2.2.3. Análisis de entrevistas 30](#análisis-de-entrevistas)
 >
-> [2.3. Needfinding 31](#needfinding)
+> [2.3. Needfinding 32](#needfinding)
 >
-> [2.3.1. User Personas 31](#user-personas)
+> [2.3.1. User Personas 32](#user-personas)
 >
-> [2.3.2. User Task Matrix 33](#user-task-matrix)
+> [2.3.2. User Task Matrix 34](#user-task-matrix)
 >
-> [2.3.3. Empathy Mapping 34](#empathy-mapping)
+> [2.3.3. Empathy Mapping 35](#empathy-mapping)
 >
-> [2.3.4. As-is Scenario Mapping 36](#as-is-scenario-mapping)
+> [2.3.4. As-is Scenario Mapping 37](#as-is-scenario-mapping)
 >
-> [2.4. Ubiquitous Language 37](#ubiquitous-language)
+> [2.4. Ubiquitous Language 38](#ubiquitous-language)
 
 [**Capítulo III: Requirements Specification
-39**](#capítulo-iii-requirements-specification)
+40**](#capítulo-iii-requirements-specification)
 
-> [3.1. To-Be Scenario Mapping 39](#to-be-scenario-mapping)
+> [3.1. To-Be Scenario Mapping 40](#to-be-scenario-mapping)
 >
-> [3.2. User Stories 40](#user-stories)
+> [3.2. User Stories 41](#user-stories)
 >
-> [3.3. Impact Mapping 42](#impact-mapping)
+> [3.3. Impact Mapping 43](#impact-mapping)
 >
-> [3.4. Product Backlog 44](#product-backlog)
+> [3.4. Product Backlog 45](#product-backlog)
 
 [**Capítulo IV: Strategic-Level Software Design
-47**](#capítulo-iv-strategic-level-software-design)
+48**](#capítulo-iv-strategic-level-software-design)
 
 > [4.1. Strategic-Level Attribute-Driven Design
-> 47](#strategic-level-attribute-driven-design)
+> 48](#strategic-level-attribute-driven-design)
 >
-> [4.1.1. Design Purpose 47](#design-purpose)
+> [4.1.1. Design Purpose 48](#design-purpose)
 >
 > [4.1.2. Attribute-Driven Design Inputs
-> 47](#attribute-driven-design-inputs)
+> 49](#attribute-driven-design-inputs)
 >
 > [4.1.2.1. Primary Functionality (Primary User Stories)
-> 48](#primary-functionality-primary-user-stories)
+> 49](#primary-functionality-primary-user-stories)
 >
 > [4.1.2.2. Quality attribute Scenarios
-> 50](#quality-attribute-scenarios)
+> 51](#quality-attribute-scenarios)
 >
-> [4.1.2.3. Constraints 52](#constraints)
+> [4.1.2.3. Constraints 53](#constraints)
 >
 > [4.1.3. Architectural Drivers Backlog
-> 53](#architectural-drivers-backlog)
+> 55](#architectural-drivers-backlog)
 >
 > [4.1.4. Architectural Design Decisions
-> 55](#architectural-design-decisions)
+> 56](#architectural-design-decisions)
 >
 > [4.1.5. Quality Attribute Scenario Refinements
-> 58](#quality-attribute-scenario-refinements)
+> 59](#quality-attribute-scenario-refinements)
 >
 > [4.2. Strategic-Level Domain-Driven Design
-> 63](#strategic-level-domain-driven-design)
+> 64](#strategic-level-domain-driven-design)
 >
-> [4.2.1. EventStorming 63](#eventstorming)
+> [4.2.1. EventStorming 64](#eventstorming)
 >
-> [4.2.2. Candidate Context Discovery 66](#candidate-context-discovery)
+> [4.2.2. Candidate Context Discovery 67](#candidate-context-discovery)
 >
 > [4.2.3. Domain Message Flows Modeling
-> 68](#domain-message-flows-modeling)
+> 69](#domain-message-flows-modeling)
 >
-> [4.2.4. Bounded Context Canvases 69](#bounded-context-canvases)
+> [4.2.4. Bounded Context Canvases 70](#bounded-context-canvases)
 >
-> [4.2.5. Context Mapping 72](#context-mapping)
+> [4.2.5. Context Mapping 73](#context-mapping)
 >
-> [4.3. Software Architecture 73](#software-architecture)
+> [4.3. Software Architecture 74](#software-architecture)
 >
 > [4.3.1. Software Architecture System Landscape Diagram
-> 73](#software-architecture-system-landscape-diagram)
+> 74](#software-architecture-system-landscape-diagram)
 >
 > [4.3.1. Software Architecture Context Level Diagrams
-> 75](#software-architecture-context-level-diagrams)
+> 76](#software-architecture-context-level-diagrams)
 >
 > [4.3.2. Software Architecture Container Level Diagrams
-> 75](#software-architecture-container-level-diagrams)
+> 76](#software-architecture-container-level-diagrams)
 >
 > [4.3.3. Software Architecture Deployment Diagrams
-> 76](#software-architecture-deployment-diagrams)
+> 77](#software-architecture-deployment-diagrams)
 
 [**Capítulo V: Tactical-Level Software Design
-77**](#capítulo-v-tactical-level-software-design)
+78**](#capítulo-v-tactical-level-software-design)
 
 > [5.1. Bounded Context: Smart Contracts
-> 77](#bounded-context-smart-contracts)
+> 78](#bounded-context-smart-contracts)
 >
-> [5.1.1. Domain Layer 77](#domain-layer)
+> [5.1.1. Domain Layer 78](#domain-layer)
 >
-> [5.1.2. Interface Layer 77](#interface-layer)
+> [5.1.2. Interface Layer 78](#interface-layer)
 >
-> [5.1.3. Application Layer 78](#application-layer)
+> [5.1.3. Application Layer 79](#application-layer)
 >
-> [5.1.4. Infrastructure Layer 78](#infrastructure-layer)
+> [5.1.4. Infrastructure Layer 79](#infrastructure-layer)
 >
 > [5.1.6. Bounded Context Software Architecture Component Level Diagrams
-> 80](#bounded-context-software-architecture-component-level-diagrams)
+> 81](#bounded-context-software-architecture-component-level-diagrams)
 >
 > [5.1.7. Bounded Context Software Architecture Code Level Diagrams
-> 81](#bounded-context-software-architecture-code-level-diagrams)
+> 82](#bounded-context-software-architecture-code-level-diagrams)
 >
 > [5.1.7.1. Bounded Context Domain Layer Class Diagram
-> 81](#bounded-context-domain-layer-class-diagram)
+> 82](#bounded-context-domain-layer-class-diagram)
 >
 > [5.1.7.2. Bounded Context Database Design Diagram
-> 82](#bounded-context-database-design-diagram)
+> 83](#bounded-context-database-design-diagram)
 >
-> [5.2. Bounded Context: Rewards 82](#bounded-context-rewards)
+> [5.2. Bounded Context: Rewards 83](#bounded-context-rewards)
 >
-> [5.2.1. Domain Layer 82](#domain-layer-1)
+> [5.2.1. Domain Layer 83](#domain-layer-1)
 >
-> [5.2.2. Interface Layer 83](#interface-layer-1)
+> [5.2.2. Interface Layer 84](#interface-layer-1)
 >
-> [5.2.3. Application Layer 83](#application-layer-1)
+> [5.2.3. Application Layer 84](#application-layer-1)
 >
-> [5.2.4. Infrastructure Layer 83](#infrastructure-layer-1)
+> [5.2.4. Infrastructure Layer 84](#infrastructure-layer-1)
 >
 > [5.2.6. Bounded Context Software Architecture Component Level Diagrams
-> 85](#bounded-context-software-architecture-component-level-diagrams-1)
+> 86](#bounded-context-software-architecture-component-level-diagrams-1)
 >
 > [5.2.7. Bounded Context Software Architecture Code Level Diagrams
-> 86](#bounded-context-software-architecture-code-level-diagrams-1)
+> 87](#bounded-context-software-architecture-code-level-diagrams-1)
 >
 > [5.2.7.1. Bounded Context Domain Layer Class Diagram
-> 86](#bounded-context-domain-layer-class-diagram-1)
+> 87](#bounded-context-domain-layer-class-diagram-1)
 >
 > [5.2.7.2. Bounded Context Database Design Diagram
-> 86](#bounded-context-database-design-diagram-1)
+> 87](#bounded-context-database-design-diagram-1)
 >
 > [5.3. Bounded Context: Rewards Catalog
-> 87](#bounded-context-rewards-catalog)
+> 88](#bounded-context-rewards-catalog)
 >
-> [5.3.1. Domain Layer 87](#domain-layer-2)
+> [5.3.1. Domain Layer 88](#domain-layer-2)
 >
-> [5.3.2. Interface Layer 87](#interface-layer-2)
+> [5.3.2. Interface Layer 88](#interface-layer-2)
 >
-> [5.3.3. Application Layer 87](#application-layer-2)
+> [5.3.3. Application Layer 88](#application-layer-2)
 >
-> [5.3.4. Infrastructure Layer 88](#infrastructure-layer-2)
+> [5.3.4. Infrastructure Layer 89](#infrastructure-layer-2)
 >
 > [5.3.6. Bounded Context Software Architecture Component Level Diagrams
-> 89](#bounded-context-software-architecture-component-level-diagrams-2)
+> 90](#bounded-context-software-architecture-component-level-diagrams-2)
 >
 > [5.3.7. Bounded Context Software Architecture Code Level Diagrams
-> 90](#bounded-context-software-architecture-code-level-diagrams-2)
+> 91](#bounded-context-software-architecture-code-level-diagrams-2)
 >
 > [5.3.7.1. Bounded Context Domain Layer Class Diagram
-> 90](#bounded-context-domain-layer-class-diagram-2)
+> 91](#bounded-context-domain-layer-class-diagram-2)
 >
 > [5.3.7.2. Bounded Context Database Design Diagram
-> 90](#bounded-context-database-design-diagram-2)
+> 91](#bounded-context-database-design-diagram-2)
 >
 > [5.4. Bounded Context: Authentication
-> 91](#bounded-context-authentication)
+> 92](#bounded-context-authentication)
 >
-> [5.4.1. Domain Layer 91](#domain-layer-3)
+> [5.4.1. Domain Layer 92](#domain-layer-3)
 >
-> [5.4.2. Interface Layer 91](#interface-layer-3)
+> [5.4.2. Interface Layer 92](#interface-layer-3)
 >
-> [5.4.3. Application Layer 91](#application-layer-3)
+> [5.4.3. Application Layer 92](#application-layer-3)
 >
-> [5.4.4. Infrastructure Layer 91](#infrastructure-layer-3)
+> [5.4.4. Infrastructure Layer 92](#infrastructure-layer-3)
 >
 > [5.4.6. Bounded Context Software Architecture Component Level Diagrams
-> 92](#bounded-context-software-architecture-component-level-diagrams-3)
+> 93](#bounded-context-software-architecture-component-level-diagrams-3)
 >
 > [5.4.7. Bounded Context Software Architecture Code Level Diagrams
-> 93](#bounded-context-software-architecture-code-level-diagrams-3)
+> 94](#bounded-context-software-architecture-code-level-diagrams-3)
 >
 > [5.4.7.1. Bounded Context Domain Layer Class Diagram
-> 93](#bounded-context-domain-layer-class-diagram-3)
+> 94](#bounded-context-domain-layer-class-diagram-3)
 >
 > [5.4.7.2. Bounded Context Database Design Diagram
-> 93](#bounded-context-database-design-diagram-3)
+> 94](#bounded-context-database-design-diagram-3)
 >
-> [5.5. Bounded Context: Profile 94](#bounded-context-profile)
+> [5.5. Bounded Context: Profile 95](#bounded-context-profile)
 >
-> [5.5.1. Domain Layer 94](#domain-layer-4)
+> [5.5.1. Domain Layer 95](#domain-layer-4)
 >
-> [5.5.2. Interface Layer 94](#interface-layer-4)
+> [5.5.2. Interface Layer 95](#interface-layer-4)
 >
-> [5.5.3. Application Layer 94](#application-layer-4)
+> [5.5.3. Application Layer 95](#application-layer-4)
 >
-> [5.5.4. Infrastructure Layer 95](#infrastructure-layer-4)
+> [5.5.4. Infrastructure Layer 96](#infrastructure-layer-4)
 >
 > [5.5.6. Bounded Context Software Architecture Component Level Diagrams
-> 95](#bounded-context-software-architecture-component-level-diagrams-4)
+> 96](#bounded-context-software-architecture-component-level-diagrams-4)
 >
 > [5.5.7. Bounded Context Software Architecture Code Level Diagrams
-> 96](#bounded-context-software-architecture-code-level-diagrams-4)
+> 97](#bounded-context-software-architecture-code-level-diagrams-4)
 >
 > [5.5.7.1. Bounded Context Domain Layer Class Diagram
-> 96](#bounded-context-domain-layer-class-diagram-4)
+> 97](#bounded-context-domain-layer-class-diagram-4)
 >
 > [5.5.7.2. Bounded Context Database Design Diagram
-> 96](#bounded-context-database-design-diagram-4)
+> 97](#bounded-context-database-design-diagram-4)
 >
-> [5.6. Bounded Context: Reporting 96](#bounded-context-reporting)
+> [5.6. Bounded Context: Reporting 97](#bounded-context-reporting)
 >
-> [5.6.1. Domain Layer 96](#domain-layer-5)
+> [5.6.1. Domain Layer 97](#domain-layer-5)
 >
-> [5.6.2. Interface Layer 97](#interface-layer-5)
+> [5.6.2. Interface Layer 98](#interface-layer-5)
 >
-> [5.6.3. Application Layer 97](#application-layer-5)
+> [5.6.3. Application Layer 98](#application-layer-5)
 >
-> [5.6.4. Infrastructure Layer 97](#infrastructure-layer-5)
+> [5.6.4. Infrastructure Layer 98](#infrastructure-layer-5)
 >
 > [5.6.6. Bounded Context Software Architecture Component Level Diagrams
-> 98](#bounded-context-software-architecture-component-level-diagrams-5)
+> 99](#bounded-context-software-architecture-component-level-diagrams-5)
 >
 > [5.6.7. Bounded Context Software Architecture Code Level Diagrams
-> 99](#bounded-context-software-architecture-code-level-diagrams-5)
+> 100](#bounded-context-software-architecture-code-level-diagrams-5)
 >
 > [5.6.7.1. Bounded Context Domain Layer Class Diagram
-> 99](#bounded-context-domain-layer-class-diagram-5)
+> 100](#bounded-context-domain-layer-class-diagram-5)
 >
 > [5.6.7.2. Bounded Context Database Design Diagram
-> 99](#bounded-context-database-design-diagram-5)
+> 100](#bounded-context-database-design-diagram-5)
 
 [**Capítulo VI: Solution UX Design
-100**](#capítulo-vi-solution-ux-design)
+101**](#capítulo-vi-solution-ux-design)
 
-> [6.1. Style Guidelines 100](#style-guidelines)
+> [6.1. Style Guidelines 101](#style-guidelines)
 >
-> [6.1.1. General Style Guidelines 100](#general-style-guidelines)
+> [6.1.1. General Style Guidelines 101](#general-style-guidelines)
 >
 > [6.1.2. Web, Mobile & Devices Style Guidelines
-> 102](#web-mobile-devices-style-guidelines)
+> 103](#web-mobile-devices-style-guidelines)
 >
-> [6.2. Information Architecture 104](#information-architecture)
+> [6.2. Information Architecture 105](#information-architecture)
 >
-> [6.2.1. Labeling Systems 104](#labeling-systems)
+> [6.2.1. Labeling Systems 105](#labeling-systems)
 >
-> [6.2.2. Searching Systems 104](#searching-systems)
+> [6.2.2. Searching Systems 105](#searching-systems)
 >
-> [6.2.3. SEO Tags and Meta Tags 105](#seo-tags-and-meta-tags)
+> [6.2.3. SEO Tags and Meta Tags 106](#seo-tags-and-meta-tags)
 >
-> [6.2.4. Navigation Systems 106](#navigation-systems)
+> [6.2.4. Navigation Systems 107](#navigation-systems)
 >
-> [6.3. Landing Page UI Design 107](#landing-page-ui-design)
+> [6.3. Landing Page UI Design 108](#landing-page-ui-design)
 >
-> [6.3.1. Landing Page Wireframe 107](#landing-page-wireframe)
+> [6.3.1. Landing Page Wireframe 108](#landing-page-wireframe)
 >
-> [6.4. Applications UX/UI Design 112](#applications-uxui-design)
+> [6.3.2. Landing Page Mock-up 110](#landing-page-mock-up)
+>
+> [6.4. Applications UX/UI Design 113](#applications-uxui-design)
+>
+> [6.4.1. Applications Wireframes 113](#applications-wireframes)
+>
+> [6.4.2. Applications Wireframes 116](#applications-wireframes-1)
+>
+> [6.4.2. Applications Wireflow Diagrams
+> 116](#applications-wireflow-diagrams)
+>
+> [6.4.3. Applications Mock-ups 118](#applications-mock-ups)
 >
 > [6.4.4. Applications User Flow Diagrams
 > 121](#applications-user-flow-diagrams)
 >
-> [Conclusiones 121](#conclusiones)
+> [6.5. Applications Prototyping 123](#applications-prototyping)
+
+[**Capítulo VII: Product Implementation, Validation & Deployment
+123**](#capítulo-vii-product-implementation-validation-deployment)
+
+> [7.1. Software Configuration Management
+> 123](#software-configuration-management)
 >
-> [Bibliografía 122](#bibliografía)
+> [7.1.1. Software Development Environment Configuration
+> 123](#software-development-environment-configuration)
 >
-> [Anexos 122](#anexos)
+> [7.1.2. Source Code Management 125](#source-code-management)
+>
+> [7.1.3. Source Code Style Guide & Conventions
+> 126](#source-code-style-guide-conventions)
+>
+> [7.1.4. Software Deployment Configuration
+> 128](#software-deployment-configuration)
+>
+> [7.2. Solution Implementation 129](#solution-implementation)
+>
+> [7.2.1. Sprint 1 129](#sprint-1)
+>
+> [7.2.1.1. Sprint Planning 1 129](#sprint-planning-1)
+>
+> [7.2.1.2. Sprint Backlog 1 130](#sprint-backlog-1)
+>
+> [7.2.1.3. Development Evidence for Sprint Review
+> 131](#development-evidence-for-sprint-review)
+>
+> [7.2.1.4. Testing Suite Evidence for Sprint Review
+> 131](#testing-suite-evidence-for-sprint-review)
+>
+> [7.2.1.5. Execution Evidence for Sprint Review
+> 132](#execution-evidence-for-sprint-review)
+>
+> [7.2.1.6. Services Documentation Evidence for Sprint Review
+> 133](#services-documentation-evidence-for-sprint-review)
+>
+> [7.2.1.7. Software Deployment Evidence for Sprint Review
+> 135](#software-deployment-evidence-for-sprint-review)
+>
+> [7.2.1.8. Team Collaboration Insights during Sprint
+> 136](#team-collaboration-insights-during-sprint)
+>
+> [7.3. Validation Interviews 137](#validation-interviews)
+>
+> [7.3.1. Diseño de Entrevistas 137](#diseño-de-entrevistas-1)
+>
+> [7.3.2. Registro de Entrevistas 137](#registro-de-entrevistas-1)
+>
+> [7.3.3. Evaluaciones según heurísticas
+> 138](#evaluaciones-según-heurísticas)
+>
+> [7.4. Video About-the-Product 138](#video-about-the-product)
+>
+> [Conclusiones 138](#conclusiones)
+>
+> [Bibliografía 139](#bibliografía)
+>
+> [Anexos 140](#anexos)
 
 #  
 
@@ -477,19 +575,25 @@ el trabajo de modo que pueda darme a entender sin ambigüedades.</p>
 <p>TP1: En las reuniones de grupo pude comunicar mis ideas o propuestas
 satisfactoriamente dandome a entender y enriquecer aún más el
 trabajo.</p>
+<p>TB2: En las reuniones de equipo pude expresarme satisfactoriamente
+para asi dar a conocer mejor mis ideas y aportar al trabajo.</p>
 <p>Jorge Gerardo Quilla Luyo</p>
 <p>TB1: Se realizó análisis de historias de usuario para definir drivers
 arquitectónicos de nuestra aplicación. También, se realizó event
 storming para definir los dominios.</p>
 <p>TP1: Se realizó análisis de cada bounded context para definir sus
 atributos e identificar la relación que tiene con otros contextos.</p>
+<p>TB2: Se creó el repositorio del API, y se diseñó la arquitectura de
+microservicios.</p>
 <p>Rony Piero Ticona Luque</p>
 <p>TB1: Se realizó funciones como user persona, empathy map y task
 matrix. Además, se llevó a cabo una entrevista enfocada en el segmento
 empresa.</p>
 <p>TP1: En esta entrega apoye en la elaboración del figma para las
 vistas de landing page, imágenes de primera edición wireframes y
-mockups.</p></th>
+mockups.</p>
+<p>TB2: Se realizó funciones de diseño en figma de los principales
+funciones y user flow como vistas principales y entrevistas.</p></th>
 <th style="text-align: left;">Durante el desarrollo del proyecto, se
 demostró una comunicación clara y efectiva, adaptada a distintos niveles
 y especialidades. El equipo coordinó tareas con plazos definidos,
@@ -522,6 +626,8 @@ entrega siendo muy breve pero lo suficiente</p>
 <p>TP1: Agregué información y la sinteticé de modo que pueda dar un
 aporte significativo al trabajo y que los miembros del grupo puedan
 comprenderlo en su totalidad.</p>
+<p>TB2: Pude aportar con mis ideas al informe de forma satisfactoria
+para así hacer un trabajo mucho más completo</p>
 <p>Jorge Gerardo Quilla Luyo</p>
 <p>TB1: Se realizaron escenarios en base a historias de usuario para
 definir los principales atributos de calidad. Se realizaron flujos y
@@ -531,13 +637,18 @@ aplicación.</p>
 diagrama de base de datos. Por cada bounded context, se definieron sus
 respectivos atributos, interfaces y endpoints disponibles para su
 consumo.</p>
+<p>TB2: Se desarrolló microservicio de autenticación de usuarios,
+contiene seguridad con JWT y expone endpoints para consulta de otros
+microservicios.</p>
 <p>Rony Piero Ticona Luque</p>
 <p>TB1: En base al proyecto se estableció un formato de entrevista para
 cada segmento objetivo para identificar las historias de usuario,
 empathy map y task matrix.</p>
 <p>TP1: En esta entrega se realizó Figma para las vistas de landing
 page, imágenes de primera edición del formato de la aplicación,
-wireframes y mockups.</p></th>
+wireframes y mockups.</p>
+<p>TB2: Se realizó funciones de diseño en figma de los principales
+funciones y user flow como vistas principales y entrevistas.</p></th>
 <th style="text-align: left;">Durante el desarrollo del proyecto, se
 logró una comunicación clara y objetiva. Se establecieron definiciones,
 límites y bases del producto, considerando su escalabilidad y
@@ -594,11 +705,11 @@ el compromiso sostenible.
 
 **1.1.2. Perfiles de integrantes del equipo**
 
-<img src="./media/image80.jpg"
-style="width:6.26772in;height:3.52778in" /><img src="./media/image98.jpg"
-style="width:6.26772in;height:3.52778in" /><img src="./media/image104.jpg"
-style="width:6.26772in;height:3.52778in" /><img src="./media/image28.jpg"
+<img src="./media/image92.jpg"
+style="width:6.26772in;height:3.52778in" /><img src="./media/image109.jpg"
+style="width:6.26772in;height:3.52778in" /><img src="./media/image120.jpg"
 style="width:6.26772in;height:3.52778in" /><img src="./media/image27.jpg"
+style="width:6.26772in;height:3.52778in" /><img src="./media/image23.jpg"
 style="width:6.26772in;height:3.52778in" />  
 **1.2. Solution Profile**
 
@@ -833,7 +944,7 @@ y lo califiquen como herramienta valiosa en encuestas internas.
 
 **1.2.2.4. Lean UX Canvas**
 
-<img src="./media/image88.png"
+<img src="./media/image99.png"
 style="width:6.26772in;height:3.23611in" />
 
 ## **1.3. Segmentos objetivos**
@@ -1212,7 +1323,7 @@ opinión nos ayudará a crear una solución útil para ti y tus compañeros.
 <th style="text-align: left;">Comas</th>
 </tr>
 <tr>
-<th style="text-align: left;"><img src="./media/image102.png"
+<th style="text-align: left;"><img src="./media/image114.png"
 style="width:2.97917in;height:1.125in" /></th>
 <th style="text-align: left;"><p>Jair, un estudiante de séptimo ciclo de
 Ingeniería de Software, trabaja y estudia al mismo tiempo. Aunque no ha
@@ -1264,7 +1375,7 @@ a la entrevista</u></a></th>
 <th style="text-align: left;">Rimac</th>
 </tr>
 <tr>
-<th style="text-align: left;"><img src="./media/image71.png"
+<th style="text-align: left;"><img src="./media/image72.png"
 style="width:2.97917in;height:1.15278in" /></th>
 <th style="text-align: left;"><p>Miguel Ángel, estudiante de Ingeniería
 de Software, trabaja y estudia simultáneamente. Ha recibido un pequeño
@@ -1297,39 +1408,15 @@ a la entrevista</u></a></th>
 </tbody>
 </table>
 
---------
+| Entrevista 3 | Mario Eugenio Roncallo Machare |
+|----|----|
+| Edad | 22 años |
+| Distrito | Breña |
+| <img src="./media/image35.png"
+style="width:2.97917in;height:1.66667in" /> | Mario Eugenio Roncallo Machare, practicante pre profesional en una empresa comercializadora de materiales de construcción, valora mucho el desarrollo profesional y considera clave reconocer el desempeño, la iniciativa y las ganas de aprender. Aunque ha recibido un reconocimiento simbólico, señala que a veces su esfuerzo no es visible por ser practicante. Le motivan recompensas económicas, vales o capacitaciones, y suele demostrar su progreso aplicando lo aprendido y proponiendo mejoras. Estaría muy dispuesto a usar una herramienta como SkillLedger, siempre que sea fácil de usar, permita subir certificados, recibir feedback y visibilizar su crecimiento de forma clara. |
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: left;">Entrevista 2</th>
-<th style="text-align: left;">Mario Eugenio Roncallo Machare</th>
-</tr>
-<tr>
-<th style="text-align: left;">Edad</th>
-<th style="text-align: left;">22 años</th>
-</tr>
-<tr>
-<th style="text-align: left;">Distrito</th>
-<th style="text-align: left;">Breña</th>
-</tr>
-<tr>
-<th style="text-align: left;"><img src="./media/image16.png"
-style="width:2.97917in;height:1.15278in" /></th>
-<th style="text-align: left;"><p>Mario Eugenio Roncallo Machare, practicante pre profesional en una empresa comercializadora de materiales de construcción, valora mucho el desarrollo profesional y considera clave reconocer el desempeño, la iniciativa y las ganas de aprender. Aunque ha recibido un reconocimiento simbólico, señala que a veces su esfuerzo no es visible por ser practicante. Le motivan recompensas económicas, vales o capacitaciones, y suele demostrar su progreso aplicando lo aprendido y proponiendo mejoras. Estaría muy dispuesto a usar una herramienta como SkillLedger, siempre que sea fácil de usar, permita subir certificados, recibir feedback y visibilizar su crecimiento de forma clara. </p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-------------------
-
-**Segmento Empresa**
+**  
+Segmento Empresa**
 
 <table>
 <colgroup>
@@ -1350,7 +1437,7 @@ style="width:2.97917in;height:1.15278in" /></th>
 <th style="text-align: left;">Lima</th>
 </tr>
 <tr>
-<th style="text-align: left;"><img src="./media/image59.png"
+<th style="text-align: left;"><img src="./media/image57.png"
 style="width:2.97917in;height:1.58333in" /></th>
 <th style="text-align: left;"><p>Rosmel Gomez Benancio, trabajador del
 área de recursos humanos en su empresa. Tienen un programa interno donde
@@ -1400,7 +1487,7 @@ href="https://youtu.be/JtG7V8uwZuA"><u>Link a la entrevista</u></a></th>
 <th style="text-align: left;">Breña</th>
 </tr>
 <tr>
-<th style="text-align: left;"><img src="./media/image46.png"
+<th style="text-align: left;"><img src="./media/image55.png"
 style="width:2.97917in;height:0.86111in" /></th>
 <th style="text-align: left;"><p>Alexandra Cabezas, Supervisora en el
 sector educativo, trabaja en Learning SAC, una empresa que gestiona
@@ -1457,7 +1544,7 @@ facilite mejores oportunidades laborales dentro de sus empresas.
 
 Datos estadísticos de las entrevistas
 
-<img src="./media/image84.png"
+<img src="./media/image80.png"
 style="width:6.26772in;height:3.76389in" />
 
 - **Segmento Empresa:**
@@ -1477,7 +1564,7 @@ personal y mejorar la productividad organizacional.
 
 Datos estadísticos de las entrevistas
 
-<img src="./media/image82.png"
+<img src="./media/image83.png"
 style="width:6.26772in;height:3.76389in" />
 
 ## **2.3. Needfinding**
@@ -1491,11 +1578,11 @@ entrevistas realizadas en las etapas anteriores.
 
 - Segmento Trabajador
 
-> <img src="./media/image48.png" style="width:4.875in;height:7.07292in" />
+> <img src="./media/image53.png" style="width:4.875in;height:7.07292in" />
 
 - Segmento Empresa
 
-> <img src="./media/image51.png" style="width:5.24479in;height:6.813in" />
+> <img src="./media/image45.png" style="width:5.24479in;height:6.813in" />
 
 ### **2.3.2. User Task Matrix**
 
@@ -1505,7 +1592,7 @@ frecuencia y relevancia asociadas a estas tareas. Esto facilita la
 validación de la prioridad de cada funcionalidad dentro de la
 aplicación.
 
-<img src="./media/image33.png"
+<img src="./media/image24.png"
 style="width:6.26772in;height:2.90278in" />
 
 ### **2.3.3. Empathy Mapping**
@@ -1519,24 +1606,24 @@ necesidades específicas dentro del ecosistema del proyecto.
 
 - Segmento Trabajador
 
-> <img src="./media/image72.png"
+> <img src="./media/image87.png"
 > style="width:6.27083in;height:6.92708in" />
 
 - Segmento Empresa
 
-> <img src="./media/image42.png"
+> <img src="./media/image50.png"
 > style="width:6.27083in;height:7.20833in" />
 
 ### **2.3.4. As-is Scenario Mapping**
 
 **Segmento Trabajador:**
 
-<img src="./media/image85.png"
+<img src="./media/image90.png"
 style="width:6.26772in;height:3.26389in" />
 
 **Segmento Empresas:**
 
-<img src="./media/image92.png"
+<img src="./media/image102.png"
 style="width:6.26772in;height:3.30556in" />
 
 ## **2.4. Ubiquitous Language**
@@ -1613,12 +1700,12 @@ style="width:6.26772in;height:3.30556in" />
 
 **Segmento Trabajador:**
 
-<img src="./media/image24.png"
+<img src="./media/image34.png"
 style="width:6.26772in;height:3.26389in" />
 
 **Segmento Empresas:**
 
-<img src="./media/image61.png"
+<img src="./media/image84.png"
 style="width:6.26772in;height:3.31944in" />
 
 ## **3.2. User Stories**
@@ -1797,27 +1884,27 @@ para usuarios sin experiencia técnica.</p></th>
 
 **Segmento Trabajador**
 
-<img src="./media/image76.png"
+<img src="./media/image81.png"
 style="width:6.26772in;height:4.56944in" />
 
 **Segmento Empresa**
 
-<img src="./media/image3.png"
+<img src="./media/image11.png"
 style="width:6.26772in;height:4.76389in" />
 
 ## **3.4. Product Backlog**
 
 | **\#Orden** | **User Story ID** | **Título** | **Descripción** | **Story Points** |
 |----|----|----|----|----|
-| 1 | HU001 | Registro de empleados | **Como** administrador, **quiero** registrar nuevos empleados en la plataforma **para** que puedan empezar a usar el sistema de recompensas. |  |
-| 2 | HU002 | Completar perfil profesional | **Como** empleado, **quiero** completar mi perfil profesional **para** que la empresa pueda reconocer mis logros y formación. |  |
-| 3 | HU003 | Asignación de roles | **Como** administrador, **quiero** asignar roles a los usuarios **para** controlar el acceso a las diferentes funcionalidades de la plataforma. |  |
-| 4 | HU004 | Registro de cumplimiento de metas | **Como** empleado, **quiero** registrar el cumplimiento de una meta o actividad **para** recibir recompensas si corresponde. |  |
-| 5 | HU005 | Definición de rutas de desarrollo | **Como** administrador, **quiero** definir rutas de desarrollo o aprendizaje **para** que los empleados sepan qué logros alcanzar. |  |
-| 6 | HU006 | Visualización de logros | **Como** empleado, **quiero** visualizar mis logros alcanzados y los pendientes **para** motivarme a avanzar. |  |
-| 7 | HU007 | Registro de logros en blockchain | **Como** sistema, **quiero** registrar los logros validados en la blockchain **para** garantizar transparencia e inmutabilidad. |  |
-| 8 | HU008 | Automatización con smart contracts | **Como** administrador, **quiero** establecer reglas en smart contracts **para** automatizar la entrega de recompensas. |  |
-| 9 | HU009 | Consulta de trazabilidad de logros | **Como** empleado, **quiero** consultar la trazabilidad de mis logros en la blockchain **para** asegurar su autenticidad. |  |
+| 1 | HU001 | Registro de empleados | **Como** administrador, **quiero** registrar nuevos empleados en la plataforma **para** que puedan empezar a usar el sistema de recompensas. | 3 |
+| 2 | HU002 | Completar perfil profesional | **Como** empleado, **quiero** completar mi perfil profesional **para** que la empresa pueda reconocer mis logros y formación. | 5 |
+| 3 | HU003 | Asignación de roles | **Como** administrador, **quiero** asignar roles a los usuarios **para** controlar el acceso a las diferentes funcionalidades de la plataforma. | 2 |
+| 4 | HU004 | Registro de cumplimiento de metas | **Como** empleado, **quiero** registrar el cumplimiento de una meta o actividad **para** recibir recompensas si corresponde. | 5 |
+| 5 | HU005 | Definición de rutas de desarrollo | **Como** administrador, **quiero** definir rutas de desarrollo o aprendizaje **para** que los empleados sepan qué logros alcanzar. | 3 |
+| 6 | HU006 | Visualización de logros | **Como** empleado, **quiero** visualizar mis logros alcanzados y los pendientes **para** motivarme a avanzar. | 2 |
+| 7 | HU007 | Registro de logros en blockchain | **Como** sistema, **quiero** registrar los logros validados en la blockchain **para** garantizar transparencia e inmutabilidad. | 8 |
+| 8 | HU008 | Automatización con smart contracts | **Como** administrador, **quiero** establecer reglas en smart contracts **para** automatizar la entrega de recompensas. | 5 |
+| 9 | HU009 | Consulta de trazabilidad de logros | **Como** empleado, **quiero** consultar la trazabilidad de mis logros en la blockchain **para** asegurar su autenticidad. | 3 |
 
 #  
 
@@ -2693,32 +2780,32 @@ mismo. Es decir, permite recopilar eventos que se producen, los actores
 involucrados, servicios de terceros implicados y comandos o acciones
 para ejecutar las reglas de negocio” (párr. 3).
 
-<img src="./media/image29.png"
+<img src="./media/image40.png"
 style="width:6.26772in;height:1.16667in" />
 
 Step 1: Domain Events
 
-<img src="./media/image54.png"
+<img src="./media/image65.png"
 style="width:6.26772in;height:2.58333in" />
 
 Step 2: Add Actors and Commands
 
-<img src="./media/image63.png"
+<img src="./media/image74.png"
 style="width:6.26772in;height:3.29167in" />
 
 Step 3: Policies and External Systems
 
-<img src="./media/image41.png"
+<img src="./media/image48.png"
 style="width:6.26772in;height:4.09722in" />
 
 Step 4: Aggregates
 
-<img src="./media/image7.png"
+<img src="./media/image5.png"
 style="width:6.26772in;height:4.22222in" />
 
 Step 5: Bounded Context
 
-<img src="./media/image83.png"
+<img src="./media/image96.png"
 style="width:6.26772in;height:3.94444in" />
 
 Link al Miro:
@@ -2736,7 +2823,7 @@ principal de nuestra aplicación es importante para cumplir las
 condiciones necesarias y así el empleado pueda demostrar su valía,
 compromiso y esfuerzo dentro de la empresa.
 
-<img src="./media/image18.png" style="width:6.26772in;height:3.75in" />
+<img src="./media/image28.png" style="width:6.26772in;height:3.75in" />
 
 Smart Contract: Este Bounded Context es el encargado de crear y
 desplegar los Smart Contracts, el cual forma parte de la tecnología
@@ -2744,7 +2831,7 @@ Blockchain, además de ser el desencadenante de transacciones automáticas
 si es que se cumplen ciertas condiciones. Se realizarán las respectivas
 notificaciones al empleado.
 
-<img src="./media/image50.png"
+<img src="./media/image60.png"
 style="width:6.27083in;height:2.80208in" />
 
 Transacciones: Este Bounded Context se encarga de cumplir con uno de los
@@ -2763,7 +2850,7 @@ actividades, completa cursos, alcanza sus metas, etc. Podrá canjear sus
 puntos obtenidos con productos, beneficios y otras cosas que la empresa
 ofrezca.
 
-<img src="./media/image60.png"
+<img src="./media/image70.png"
 style="width:6.26772in;height:2.26389in" />
 
 ### **4.2.3. Domain Message Flows Modeling**
@@ -2779,7 +2866,7 @@ se realice la transacción de puntos al empleado. Finalmente, por medio
 de la aplicación web se podrá visualizar en tiempo real la transacción
 realizada a ese empleado.
 
-<img src="./media/image91.png"
+<img src="./media/image116.png"
 style="width:6.26772in;height:2.93056in" />
 
 Link al Miro:
@@ -2794,7 +2881,7 @@ aplicación. Este catálogo necesita ser actualizado con productos,
 beneficios, entre otros, los cuales deben ser ingresados por el usuario
 empresa.
 
-<img src="./media/image19.png"
+<img src="./media/image6.png"
 style="width:6.26772in;height:3.13889in" />
 
 Link al Miro: [<u>Domain Message Flow Modelling Scenario
@@ -2804,32 +2891,32 @@ Link al Miro: [<u>Domain Message Flow Modelling Scenario
 
 Certificados Context
 
-<img src="./media/image15.png"
+<img src="./media/image31.png"
 style="width:6.26772in;height:3.23611in" />
 
 Smart Contracts Context
 
-<img src="./media/image86.png"
+<img src="./media/image105.png"
 style="width:6.26772in;height:3.23611in" />
 
 Transacciones Context
 
-<img src="./media/image73.png"
+<img src="./media/image77.png"
 style="width:6.26772in;height:3.23611in" />
 
 Usuarios Context
 
-<img src="./media/image67.png"
+<img src="./media/image69.png"
 style="width:6.26772in;height:3.83333in" />
 
 Catálogo de recompensas Context
 
-<img src="./media/image95.png"
+<img src="./media/image104.png"
 style="width:6.26772in;height:3.23611in" />
 
 Premios Context
 
-<img src="./media/image65.png"
+<img src="./media/image93.png"
 style="width:6.26772in;height:3.23611in" />
 
 ### **4.2.5. Context Mapping**
@@ -2862,7 +2949,7 @@ style="width:6.26772in;height:3.23611in" />
   contexto Premios está en constante colaboración con el usuario y se
   adapta según las necesidades.
 
-<img src="./media/image49.png"
+<img src="./media/image61.png"
 style="width:6.26772in;height:3.01389in" />
 
 Link al Miro: [<u>Context
@@ -2877,12 +2964,12 @@ talento de sus empleados a través de recompensas en blockchain. El
 sistema interactúa con tres tipos de usuarios: empleados, recursos
 humanos, y administradores.
 
-<img src="./media/image58.png"
+<img src="./media/image75.png"
 style="width:6.13542in;height:5.63542in" />
 
 ### **4.3.1. Software Architecture Context Level Diagrams**
 
-<img src="./media/image96.png"
+<img src="./media/image110.png"
 style="width:6.26772in;height:5.69444in" />
 
 ### **4.3.2. Software Architecture Container Level Diagrams**
@@ -2891,12 +2978,12 @@ Los empleados y el HR acceden por la web, ambos se comunican con el
 sistema a través del API Gateway, que enruta las solicitudes según el
 contexto (autenticación, recompensas, perfiles).
 
-<img src="./media/image20.png"
+<img src="./media/image4.png"
 style="width:6.26772in;height:3.51389in" />
 
 ### **4.3.3. Software Architecture Deployment Diagrams**
 
-<img src="./media/image9.png"
+<img src="./media/image18.png"
 style="width:6.26772in;height:2.86111in" />
 
 # **Capítulo V: Tactical-Level Software Design**
@@ -3011,19 +3098,19 @@ Estructura:
 
 ### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="./media/image101.png"
+<img src="./media/image95.png"
 style="width:6.26772in;height:7.68056in" />
 
 ### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.1.7.1. Bounded Context Domain Layer Class Diagram
 
-<img src="./media/image74.png"
+<img src="./media/image86.png"
 style="width:6.26772in;height:3.31944in" />
 
 #### 5.1.7.2. Bounded Context Database Design Diagram
 
-<img src="./media/image78.png"
+<img src="./media/image88.png"
 style="width:6.26772in;height:5.56944in" />
 
 ## 5.2. Bounded Context: Rewards
@@ -3103,20 +3190,20 @@ Flujo:
 
 ### 5.2.6. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="./media/image31.png"
+<img src="./media/image51.png"
 style="width:5.90535in;height:7.72011in" />
 
 ### 5.2.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.2.7.1. Bounded Context Domain Layer Class Diagram
 
-<img src="./media/image26.png"
+<img src="./media/image25.png"
 style="width:6.26772in;height:5.16667in" />
 
 #### 5.2.7.2. Bounded Context Database Design Diagram
 
 <img src="./media/image12.png"
-style="width:6.26772in;height:2.19444in" />
+style="width:7.17198in;height:2.51398in" />
 
 ## 5.3. Bounded Context: Rewards Catalog
 
@@ -3203,19 +3290,19 @@ style="width:6.26772in;height:2.19444in" />
 
 ### 5.3.6. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="./media/image100.png"
+<img src="./media/image89.png"
 style="width:4.88995in;height:7.83854in" />
 
 ### 5.3.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.3.7.1. Bounded Context Domain Layer Class Diagram
 
-<img src="./media/image52.png"
+<img src="./media/image76.png"
 style="width:6.26772in;height:3.95833in" />
 
 #### 5.3.7.2. Bounded Context Database Design Diagram
 
-<img src="./media/image99.png"
+<img src="./media/image98.png"
 style="width:6.26772in;height:3.15278in" />
 
 ## 5.4. Bounded Context: Authentication
@@ -3277,19 +3364,19 @@ style="width:6.26772in;height:3.15278in" />
 
 ### 5.4.6. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="./media/image34.png"
+<img src="./media/image14.png"
 style="width:3.48438in;height:5.2027in" />
 
 ### 5.4.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.4.7.1. Bounded Context Domain Layer Class Diagram
 
-<img src="./media/image77.png"
+<img src="./media/image100.png"
 style="width:4.39583in;height:3.47917in" />
 
 #### 5.4.7.2. Bounded Context Database Design Diagram
 
-<img src="./media/image8.png"
+<img src="./media/image3.png"
 style="width:6.26772in;height:3.51389in" />
 
 ## 5.5. Bounded Context: Profile
@@ -3357,19 +3444,19 @@ style="width:6.26772in;height:3.51389in" />
 
 ### 5.5.6. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="./media/image97.png"
+<img src="./media/image115.png"
 style="width:1.89899in;height:4.73053in" />
 
 ### 5.5.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.5.7.1. Bounded Context Domain Layer Class Diagram
 
-<img src="./media/image30.png"
+<img src="./media/image49.png"
 style="width:4.07292in;height:3.11458in" />
 
 #### 5.5.7.2. Bounded Context Database Design Diagram
 
-<img src="./media/image13.png"
+<img src="./media/image8.png"
 style="width:6.26772in;height:1.98611in" />
 
 ## 5.6. Bounded Context: Reporting 
@@ -3434,19 +3521,19 @@ style="width:6.26772in;height:1.98611in" />
 
 ### 5.6.6. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="./media/image2.png"
+<img src="./media/image1.png"
 style="width:3.61351in;height:5.59511in" />
 
 ### 5.6.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.6.7.1. Bounded Context Domain Layer Class Diagram
 
-<img src="./media/image38.png"
+<img src="./media/image43.png"
 style="width:2.61458in;height:4.57292in" />
 
 #### 5.6.7.2. Bounded Context Database Design Diagram
 
-<img src="./media/image87.png"
+<img src="./media/image107.png"
 style="width:6.26772in;height:2.20833in" />
 
 # **Capítulo VI: Solution UX Design**
@@ -3471,7 +3558,7 @@ títulos, subtítulos y textos informativos.
 
 **Roboto - Google fonts**
 
-<img src="./media/image103.png"
+<img src="./media/image111.png"
 style="width:6.26772in;height:3.20833in" />
 
 Referencia:
@@ -3487,26 +3574,26 @@ acentos en dorado o verde para elementos de reconocimiento y éxito)
   utilizado para botones principales y enlaces. El código HEX utilizado
   es \#1E88E5.
 
-> <img src="./media/image35.png"
+> <img src="./media/image29.png"
 > style="width:2.34375in;height:2.34375in" />
 
 - Primary Variant: Será mucho más fuerte que el primary. Su uso se dará
   en los encabezados, barras superiores y énfasis. El código HEX
   utilizado es \#1565C0.
 
-> <img src="./media/image36.png"
+> <img src="./media/image38.png"
 > style="width:2.34375in;height:2.34375in" />
 
 - Secondary: Representará logros, recompensas y prestigio. Usado en
   insignias, íconos de éxito. El código HEX utilizado es \#F9A825.
 
-> <img src="./media/image37.png"
+> <img src="./media/image46.png"
 > style="width:2.34375in;height:2.34375in" />
 
 - Background: Neutral y suave. Ideal como fondo en general para tener
   cierta limpieza visual. El código HEX a utilizar es \#F5F7FA.
 
-> <img src="./media/image23.png"
+> <img src="./media/image33.png"
 > style="width:2.34375in;height:2.34375in" />
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
@@ -3822,115 +3909,832 @@ Search bar: Navegación por búsqueda textual (ver sección previa)
 
 - Desktop
 
-<img src="./media/image47.png"
+<img src="./media/image68.png"
 style="width:2.69271in;height:4.57319in" />
 
 - Tablet
 
-<img src="./media/image32.png"
-style="width:1.85052in;height:3.63021in" /><img src="./media/image11.png"
+<img src="./media/image17.png"
+style="width:1.85052in;height:3.63021in" /><img src="./media/image2.png"
 style="width:1.82728in;height:3.50521in" />
 
 - Phone
 
-> <img src="./media/image79.png"
-> style="width:0.67708in;height:2.38542in" /><img src="./media/image53.png"
-> style="width:0.6875in;height:2.69792in" /><img src="./media/image70.png"
-> style="width:0.67708in;height:2.52083in" /><img src="./media/image75.png" style="width:0.67708in;height:3.875in" />
+> <img src="./media/image112.png"
+> style="width:0.67708in;height:2.38542in" /><img src="./media/image67.png"
+> style="width:0.6875in;height:2.69792in" /><img src="./media/image85.png"
+> style="width:0.67708in;height:2.52083in" /><img src="./media/image78.png" style="width:0.67708in;height:3.875in" />
 
-6.3.2. Landing Page Mock-up
+### 6.3.2. Landing Page Mock-up
 
 - Desktop
 
-> <img src="./media/image55.png"
+> <img src="./media/image56.png"
 > style="width:3.29688in;height:5.58995in" />
 
 - Tablet
 
-> <img src="./media/image14.png"
-> style="width:2.24479in;height:3.19987in" /><img src="./media/image45.png"
+> <img src="./media/image20.png"
+> style="width:2.24479in;height:3.19987in" /><img src="./media/image54.png"
 > style="width:2.30729in;height:4.62173in" />
 
 - Phone
 
-> <img src="./media/image64.png"
-> style="width:0.71875in;height:2.4375in" /><img src="./media/image68.png"
-> style="width:0.71875in;height:2.69792in" /><img src="./media/image93.png"
-> style="width:0.72917in;height:2.52083in" /><img src="./media/image94.png"
-> style="width:0.72917in;height:1.80208in" /><img src="./media/image22.png"
+> <img src="./media/image66.png"
+> style="width:0.71875in;height:2.4375in" /><img src="./media/image73.png"
+> style="width:0.71875in;height:2.69792in" /><img src="./media/image97.png"
+> style="width:0.72917in;height:2.52083in" /><img src="./media/image118.png"
+> style="width:0.72917in;height:1.80208in" /><img src="./media/image19.png"
 > style="width:0.72917in;height:2.08333in" />
 
 ## 6.4. Applications UX/UI Design
 
-6.4.1. Applications Wireframes
+### 6.4.1. Applications Wireframes
 
-<img src="./media/image62.png"
+<img src="./media/image82.png"
 style="width:6.26772in;height:4.18056in" />
 
-<img src="./media/image5.png"
+<img src="./media/image7.png"
 style="width:5.51042in;height:3.72917in" />
 
-<img src="./media/image40.png"
+<img src="./media/image47.png"
 style="width:5.52083in;height:3.73958in" />
 
-<img src="./media/image43.png"
+<img src="./media/image62.png"
 style="width:5.52083in;height:3.77083in" />
 
-<img src="./media/image4.png" style="width:5.51042in;height:3.75in" />
+<img src="./media/image9.png" style="width:5.51042in;height:3.75in" />
 
-<img src="./media/image66.png" style="width:5.5in;height:3.73958in" />
+<img src="./media/image79.png" style="width:5.5in;height:3.73958in" />
 
-6.4.2. Applications Wireflow Diagrams
+### 6.4.2. Applications Wireframes
+
+### 6.4.2. Applications Wireflow Diagrams
 
 - Editar Perfil
 
-> <img src="./media/image17.png"
+> <img src="./media/image32.png"
 > style="width:6.26772in;height:2.01389in" />
 
 - Cargar certificado
 
-> <img src="./media/image90.png"
+> <img src="./media/image91.png"
 > style="width:6.26772in;height:1.84722in" />
 
 - Ranking
 
-> <img src="./media/image81.png"
+> <img src="./media/image113.png"
 > style="width:6.26772in;height:1.88889in" />
 
 - Mis logros
 
-> <img src="./media/image56.png"
+> <img src="./media/image59.png"
 > style="width:6.26772in;height:1.88889in" />
 
 - Catálogo de recompensas
 
-> <img src="./media/image21.png"
+> <img src="./media/image13.png"
 > style="width:6.26772in;height:1.86111in" />
 
-6.4.3. Applications Mock-ups
+### 6.4.3. Applications Mock-ups
 
-<img src="./media/image25.png"
-style="width:6.26772in;height:4.65278in" />
+<img src="./media/image42.png"
+style="width:6.26772in;height:4.01389in" />  
+<img src="./media/image41.png" style="width:6.26772in;height:4in" />
 
-<img src="./media/image69.png"
-style="width:6.26772in;height:4.56944in" />
+<img src="./media/image21.png" style="width:6.26772in;height:4in" />
 
-<img src="./media/image6.png"
-style="width:6.26772in;height:4.56944in" />
+<img src="./media/image63.png" style="width:6.26772in;height:4in" />
 
-<img src="./media/image39.png"
-style="width:6.26772in;height:4.56944in" />
+<img src="./media/image101.png" style="width:6.26772in;height:4in" />
 
-<img src="./media/image57.png"
-style="width:6.26772in;height:4.56944in" />
+<img src="./media/image117.png" style="width:6.26772in;height:4in" />
 
-<img src="./media/image89.png"
-style="width:6.26772in;height:4.47222in" />
+<img src="./media/image64.png"
+style="width:6.26772in;height:4.01389in" />
+
+<img src="./media/image103.png" style="width:6.26772in;height:4in" />
 
 ### 6.4.4. Applications User Flow Diagrams
 
-<img src="./media/image1.png"
-style="width:6.26772in;height:2.27778in" />
+User Flow Nr°1
+
+User: Trabajador
+
+Goal: Subir Certificado
+
+Cuando el trabajador intenta subir un certificado de estudio.
+
+<img src="./media/image94.png"
+style="width:6.26772in;height:4.65278in" />
+
+User Flow Nr°2
+
+User: Trabajador
+
+Goal: Editar Perfil
+
+Cuando el trabajador intenta editar el Perfil
+
+<img src="./media/image26.png"
+style="width:6.26772in;height:2.36111in" />.
+
+User Flow Nr°2
+
+User: Trabajador
+
+Goal: Editar Perfil
+
+Cuando el trabajador intenta editar el Perfil
+
+## 6.5. Applications Prototyping
+
+<img src="./media/image52.png"
+style="width:6.26772in;height:4.05556in" />
+
+Link del prototipo:
+[<u>https://www.figma.com/proto/XYjr6XtfC7IAZYXqJQGjlt/Web-APP---Arqui.-Emergentes?page-id=13%3A49945&node-id=90-14862&viewport=347%2C39%2C0.1&t=ZdQdyNGJ755RwhXz-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=90%3A14862</u>](https://www.figma.com/proto/XYjr6XtfC7IAZYXqJQGjlt/Web-APP---Arqui.-Emergentes?page-id=13%3A49945&node-id=90-14862&viewport=347%2C39%2C0.1&t=ZdQdyNGJ755RwhXz-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=90%3A14862)
+
+# **Capítulo VII: Product Implementation, Validation & Deployment**
+
+## 7.1. Software Configuration Management
+
+### 7.1.1. Software Development Environment Configuration
+
+Para el desarrollo de este proyecto se ha empleado lo siguiente:
+
+**Product UX/UI Design**
+
+- Miro: https://www.miro.com
+
+Se utilizó el servicio de Miro para el desarrollo del Lean ux canvas,
+Análisis de competidores, As-is Scenario mapping, To-be Scenario mapping
+
+- Figma: https://www.figma.com/
+
+El servicio figma se utilizó en la creacion de los wireframes, mock up y
+el prototipado del proyecto.
+
+**Software Development**
+
+- Landing Page
+
+En el desarrollo de la Landing Page se utilizó HTML5, CSS y Javascript.
+
+- Frontend Web Application
+
+Para el frontend se utilizó el framework Vue y el Vue Material para el
+diseño y reactividad.
+
+- Backend Web API
+
+Para el desarrollo del backend se utilizó el framework de Spring Boot y
+una arquitectura basada en microservicios.
+
+- Base de datos
+
+Para la base de datos se está utilizando como motor de base de datos
+MySQL el cual nos otorga un sistema confiable y escalable tanto para el
+almacenamiento como para su administración de los datos.
+
+**Software Deployment**
+
+- Netlify: https://www.netlify.com/
+
+Para el despliegue del frontend se utilizó el servicio de Netlify, un
+servicio de hosting para desplegar aplicaciones web, en este caso
+nuestro frontend,
+
+- Google Cloud Platform
+
+Para el despliegue de la base de datos y el backend se utilizará Google
+cloud platform, un servicio de hosting para propias bases de datos y
+aplicaciones web.
+
+- Github Pages
+
+Para el despliegue de la landing page se utilizó la herramienta de
+Github Pages
+
+**Software Documentation**
+
+- Github:
+
+Se utilizó el servicio de Github para la documentación y almacenamiento
+del proyecto para mantener un registro de las distintas versiones del
+mismo.
+
+- Vertabelo: https://vertabelo.com/
+
+Para el modelado y la posterior documentación de la base de datos se
+utilizó el servicio de Vertabelo.
+
+### 7.1.2. Source Code Management
+
+- Repositorios
+
+URL del repositorio de Github para el backend de nuestra aplicación
+
+[<u>https://github.com/TalentChain-UPC/Backend.git</u>](https://github.com/TalentChain-UPC/Backend.git)
+
+URL del repositorio de Github para el frontend de nuestra aplicación
+
+[<u>https://github.com/TalentChain-UPC/Frontend.git</u>](https://github.com/TalentChain-UPC/Frontend.git)
+
+URL del repositorio de Github para la landing page de nuestra aplicación
+
+[<u>https://github.com/TalentChain-UPC/LandingPage.git</u>](https://github.com/TalentChain-UPC/LandingPage.git)
+
+Para el control de versiones de nuestros proyectos se seguirá el modelo
+GitFlow, de este modo se llevará a cabo el desarrollo del proyecto de
+una forma mucho más ordenada y estructurada. Las ramas que compondrán
+este serán las siguientes:
+
+- La rama MASTER será la versión final y estable que estará preparada
+  para ser desplegada en producción. Los cambios finales convergen aquí
+  y son seguros para ser implementados.
+
+- La rama DEVELOP será en la que se trabajará las nuevas funcionalidades
+  y los arreglos que se tengan que hacer.
+
+- La rama FEATURE será en la que se encontrarán las características para
+  trabajar en las próximas funciones. Cada característica será
+  desarrollada a un lado para ser trabajada individualmente.
+
+- La rama RELEASE son en las cuales se estará terminando la próxima
+  versión del software. En esta se arreglaran bugs, se testeando y
+  finalmente se combinaran con MASTER y DEVELOP.
+
+- La rama HOTFIX será la encargada de almacenar los bugs que se puedan
+  haber dado en producción. Estos se crearán usando como base la rama de
+  MASTER y se arreglaran los cambios hacia las ramas MASTER y DEVELOP.
+
+<img src="./media/image30.png"
+style="width:6.26772in;height:3.52778in" />
+
+### 7.1.3. Source Code Style Guide & Conventions
+
+HTML:
+[<u>https://www.w3schools.com/html/html5_syntax.asp</u>](https://www.w3schools.com/html/html5_syntax.asp)
+
+Index.html
+
+Es la página que se carga por defecto en toda página web.
+
+Convenciones de HTML:
+
+- Se debe declarar el tipo de documento en la primera línea: \<!DOCTYPE
+  html\>
+
+- Se recomienda usar minúsculas en las etiquetas y estructuras: \<body\>
+  \<p\>
+
+- Se recomienda cerrar todas las etiquetas y estructuras: \<p\>This is a
+  paragraph.\</p\>
+
+- Se recomienda usar minúsculas en los atributos: \<a
+  href="https://www.google.com/html/"\>
+
+- Se recomienda usar comillas en los valores de atributo: \<table
+  class="striped"\>
+
+- Se debe especificar el alt, ancho y alto de las imágenes: \<img
+  src="html5.gif" alt="HTML5" style="width:128px;height:128px"\>
+
+- Se recomienda no usar espacios a la hora de usar el signo “=”: \<link
+  rel="stylesheet" href="styles.css"\>
+
+- Solo se debe usar líneas en blaco para facilitar la lectura de bloques
+  de códigos grandes o lógicos.
+
+- No se debe omitir el elemento \<title\> ya que es vital para el motor
+  de búsqueda, así como también se recomienda que el contenido de los
+  \<title\> sea preciso y significativo: \<title\>HTML Style Guide and
+  Coding Conventions\</title\>
+
+- No se recomienda omitir las etiquetas \<html\> y \<body\> ya que puede
+  producir errores en navegadores antiguos y puede bloquear el software
+  DOM y XML.
+
+- Se debe usar el atributo lang para declarar el idioma de la página
+  web: \<html lang="en-us"\>
+
+- Se debe utilizar el atributo meta para una interpretación adecuada e
+  indexación correcta en los motores de búsqueda: \<meta
+  charset="UTF-8"\>
+
+CSS:
+[<u>https://google.github.io/styleguide/htmlcssguide.html</u>](https://google.github.io/styleguide/htmlcssguide.html)
+
+Style.css
+
+Los estilos son mayormente empleados para el color, tamaño o estilos de
+tanto el texto como los contenedores.
+
+Convenciones de CSS:
+
+- Utilizar el protocolo HTTPS para imágenes y otros archivos multimedia:
+  @import 'https://fonts.googleapis.com/css?family=Open+Sans' ; Todo el
+  código debe estar en minúsculas como nombres de elementos HTML,
+  atributos, valores de atributo, entre otros: color : \#e5e5e5;
+
+- El nombre de una clase debe transmitir lo que hace de la forma más
+  breve posible ya que de esta manera se apoya la comprensibilidad y
+  eficiencia del código: navegación {} . autor {} Se debe separar los
+  nombres de las clases con un guión (“-”): navegación {} . autor {}
+
+- Se recomienda usar propiedades abreviadas cuando sea posible: border -
+  top : 0 ;
+
+- Se recomienda usar la notación hexadecimal de 3 caracteres en colores
+  que lo permitan: color : \#ebc;
+
+- Se recomienda ordenar las declaraciones de propiedades y
+  características en orden alfabético
+
+- Se debe usar un “;” después de cada declaración: pantalla : bloque ;
+
+- Se debe usar un espacio después de los “:” de cada nombre de la
+  propiedad: font - weight : bold ;
+
+- Se debe usar un espacio entre el último sector y la llave “{ “ que
+  comienza el bloque de declaración:. vídeo {.....}
+
+- Se debe usar las comillas simples (‘ ‘) para los atributos y valores
+  de propiedad: familia de fuentes : ' open sans' , arial , sans - serif
+  ;
+
+Java: https://google.github.io/styleguide/javaguide.html
+
+Convenciones de Java:
+
+- Los nombres de clases y tipos deben ser sustantivos en mayúscula
+  inicial.
+
+- Los nombres de los métodos deben ser minúsculas.
+
+- El nombre de las variables debe ser en minúsculas y usar camel case.
+
+- Para las sentencias if,else,for,do y while se deben usar “ { } “.
+
+- Los nombres de variables que son Constantes deben ir en mayúsculas.
+
+JavaScript:
+[<u>https://google.github.io/styleguide/jsguide.html</u>](https://google.github.io/styleguide/jsguide.html).
+
+Spring Boot :
+[<u>https://docs.spring.io/spring-boot/docs/current/reference/html/features.html</u>](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)
+
+Convenciones de Spring Boot:
+
+- Se debe emplear @Controller, @Service, @Repository, @Component,
+  @Autowired, entre otros más, para poder definir y gestionar los
+  componentes de Spring.
+
+- Para el manejo de excepciones se debe hacer uso de @ControllerAdvice y
+  @ExceptionHandler para poder gestionar los errores de manera
+  consistente.
+
+- Se debe usar @Transactional para gestionar las transacciones.
+
+- En el caso que se quiera gestionar la autenticación y autorización de
+  una aplicación, se debe usar Spring Security.
+
+- Se debe usar nombre de paquetes y clases descriptivas que reflejan la
+  funcionalidad de los componentes.
+
+Vue:
+[<u>https://vuejs.org/guide/introduction.html</u>](https://vuejs.org/guide/introduction.html)
+
+Convenciones de Vue
+
+- Se utiliza un archivo único de extensión .vue
+
+- Se utiliza, PascaCase para los nombres de los componentes, Kebab-case
+  para los componentes en el template.
+
+- En el script los métodos son: name, components, props, data, computed,
+  methods, watch, mounted, created.
+
+- El orden lógico de los atributos en los elementos html son: v-if
+  v-for, :key, ref, class, style, @event y binding.
+
+### 7.1.4. Software Deployment Configuration
+
+En esta sección abordaremos el despliegue de nuestro Landing Page ,y
+posteriormente nuestro frontend, mediante Netlify. A continuación, se
+describirán los pasos a seguir:
+
+En este apartado se abordará el despliegue del Landing Page y por
+consiguiente el frontend, esto mediante el servicio de Netlify.
+
+<img src="./media/image58.png"
+style="width:6.26772in;height:4.11111in" />
+
+## 7.2. Solution Implementation
+
+### 7.2.1. Sprint 1
+
+#### 7.2.1.1. Sprint Planning 1
+
+| Sprint N | Sprint 1 |
+|----|----|
+| Sprint Planning Background |  |
+| Date | 20/06/2025 |
+| Time | 10:00 pm |
+| Location | Discord |
+| Prepared By | Brayan Gamboa |
+| Attendees (to planning meeting) | Rony Ticona, Jeremy Antonio, Jorge Quilla, Luis Aquije |
+| Sprint 0 Review Summary | Realizar la primera versión del sistema. |
+| Sprint 0 Retrospective Summary | Mejorar tiempos de reunión y entregables. |
+| Sprint Goal & User Stories |  |
+| Sprint 1 Goal | En este sprint se ha propuesto desarrollar la primera versión del Backend y desplegar la primera versión del Frontend. Se debe implementar las funcionalidades y vistas principales que permitan al usuario obtener su usuario y perfil de empleado de una empresa registrada en la aplicación Talent Chain. |
+| Sprint 1 Velocity | 21 |
+| Sum of Story Points | 20 |
+
+#### 7.2.1.2. Sprint Backlog 1
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 6%" />
+<col style="width: 11%" />
+<col style="width: 17%" />
+<col style="width: 15%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Sprint #</th>
+<th colspan="7" style="text-align: left;">Sprint 1</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align: left;">User Story</th>
+<th colspan="6" style="text-align: left;">Work-Item/Task</th>
+</tr>
+<tr>
+<th style="text-align: left;">Id</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Id</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Description</th>
+<th style="text-align: left;">Estimation (Hours)</th>
+<th style="text-align: left;">Assigned to</th>
+<th style="text-align: left;">Status (To-do/InProcess/To
+ReviewDone)</th>
+</tr>
+<tr>
+<th rowspan="2" style="text-align: left;">HU001</th>
+<th rowspan="2" style="text-align: left;">Registro de empleados</th>
+<th style="text-align: left;">W01-1</th>
+<th style="text-align: left;">Registrar empresa y empleados UI</th>
+<th style="text-align: left;">Desarrollar interfaz de usuario</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">Brayan Gamboa, Jeremy Antonio, Rony
+Ticona</th>
+<th style="text-align: left;">Done</th>
+</tr>
+<tr>
+<th style="text-align: left;">W01-2</th>
+<th style="text-align: left;">Guardar empresa y empleados</th>
+<th style="text-align: left;">Desarrollar api para almacenamiento de
+usuarios</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">Jorge Quilla, Luis Aquije</th>
+<th style="text-align: left;">Done</th>
+</tr>
+<tr>
+<th style="text-align: left;">HU004</th>
+<th style="text-align: left;">Registro de cumplimiento de metas</th>
+<th style="text-align: left;"><p>W0</p>
+<p>2-1</p></th>
+<th style="text-align: left;">Subir evidencias y certificados</th>
+<th style="text-align: left;">Desarrollar interfaz</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">Brayan Gamboa, Jeremy Antonio, Rony
+Ticona</th>
+<th style="text-align: left;">Done</th>
+</tr>
+<tr>
+<th style="text-align: left;">HU006</th>
+<th style="text-align: left;">Visualización de logros</th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Visualizacion de logros</th>
+<th style="text-align: left;">Desarrollar interfaz</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">Brayan Gamboa, Jeremy Antonio, Rony
+Ticona</th>
+<th style="text-align: left;">Done</th>
+</tr>
+<tr>
+<th style="text-align: left;">HU007</th>
+<th style="text-align: left;">Registro de logros en blockchain</th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Visualizar transacciones</th>
+<th style="text-align: left;">Desarrollar interfaz</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">Brayan Gamboa, Jeremy Antonio, Rony
+Ticona</th>
+<th style="text-align: left;">Done</th>
+</tr>
+<tr>
+<th style="text-align: left;">HU009</th>
+<th style="text-align: left;">Consulta de trazabilidad de logros</th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Visualizar logros</th>
+<th style="text-align: left;">Desarrollar interfaz</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">Brayan Gamboa, Jeremy Antonio, Rony
+Ticona</th>
+<th style="text-align: left;">Done</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+#### 7.2.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID | Commit message | Committed on (Date) |
+|----|----|----|----|----|
+| [<u>https://github.com/TalentChain-UPC/Backend</u>](https://github.com/TalentChain-UPC/Backend) | chore/dockerfile | 2d4c2d3e30aeae117c9bf19104e98711e35e4870 | chore: add company dockerfile | 20/06/2024 |
+| [<u>https://github.com/TalentChain-UPC/Backend</u>](https://github.com/TalentChain-UPC/Backend) | feat/gateway-service | aad53452daceb9105fded2784a7bb7d7e18b1dfe | Merge pull request \#6 from TalentChain-UPC/luis | 21/06/2025 |
+| [<u>https://github.com/TalentChain-UPC/Backend</u>](https://github.com/TalentChain-UPC/Backend) | feat/labor-record-service | 940baa33f7bbb1fbdd58d6e858ae37b5577dfa8d | fix(evidences): fix employee foreign key | 21/06/2025 |
+| [<u>https://github.com/TalentChain-UPC/Frontend</u>](https://github.com/TalentChain-UPC/Frontend) | main | 473fc64713611817f062547512fa3f00d82eef9b | feat:backend connection(create users) | 20/06/2025 |
+| [<u>https://github.com/TalentChain-UPC/Frontend</u>](https://github.com/TalentChain-UPC/Frontend) | main | cfbc78a37ea4795170e5fa72de4f9520dac37389 | Login Screen | 06/06/2025 |
+
+#### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para este sprint se realizaron pruebas para el Frontend y el Backend
+respectivamente.
+
+#### 7.2.1.5. Execution Evidence for Sprint Review
+
+Para esta entrega los miembros de TalentChain pudieron desplegar y
+terminar las primeras funcionalidades de SkillLedger en donde se podrán
+encontrar el registro de empleados, empresas entre otros.
+
+**FrontEnd**
+
+<img src="./media/image16.png" style="width:6.26772in;height:3.375in" />
+
+**BackEnd**
+
+<img src="./media/image36.jpg"
+style="width:6.26772in;height:3.98611in" />
+
+#### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega los miembros de TalentChain lograron completar al 70%
+todo lo requerido en las tareas propuestas. El sprint estuvo más que
+nada enfocado en la implementación de funciones básicas que tendrán
+SkillLedger.
+
+<img src="./media/image22.jpg"
+style="width:6.26772in;height:3.61111in" /><img src="./media/image37.jpg"
+style="width:6.26772in;height:3.38889in" /><img src="./media/image106.jpg"
+style="width:6.26772in;height:2.30556in" />
+
+#### 7.2.1.7. Software Deployment Evidence for Sprint Review
+
+El equipo de TalentChain logró desplegar satisfactoriamente el proyecto
+en la nube con la cual se podrá evidenciar el funcionamiento del avance
+de la misma.
+
+**FrontEnd:**
+
+Link al proyecto desplegado:
+[<u>https://skillledger.netlify.app</u>](https://skillledger.netlify.app)
+
+<img src="./media/image58.png"
+style="width:6.26772in;height:4.11111in" />
+
+**Backend:**
+
+<img src="./media/image108.png"
+style="width:6.26772in;height:3.52778in" />
+
+#### 7.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo desarrolló en conjunto mediante Github aportando cada uno al
+proyecto para de ese modo terminarlo lo más pronto posible cumpliendo
+con las fechas predefinidas.
+
+Backend Insights:
+
+<img src="./media/image10.png"
+style="width:6.08333in;height:3.01042in" />
+
+Frontend Insights:
+
+<img src="./media/image71.png"
+style="width:5.83333in;height:2.26042in" />
+
+## 7.3. Validation Interviews
+
+### 7.3.1. Diseño de Entrevistas
+
+Validación Entrevistas
+
+Diseño de Entrevistas
+
+Introducción (Mencionar objetivo del proyecto SkillLedger)
+
+Buenas noches me podría brindar su nombre, cuantos años tiene y en qué
+trabaja o estudia?
+
+Presentación de las vistas del mockup (Indicando los detalles del
+mockup)
+
+¿Te resulta claro el diseño del segmento del trabajador para subir
+certificado, canjear promociones y ver ranking?
+
+¿Consideras útil poder ver las transacciones en línea cuando un
+trabajador sube un certificado?
+
+¿Qué tan fácil o difícil te resulta agregar un certificado?
+
+¿El diseño visual y los flujos de interacción te parecen intuitivos y
+rápidos de aprender? ¿Qué mejorarías?
+
+¿Agregarías algo más en las funcionalidades?
+
+### 7.3.2. Registro de Entrevistas
+
+**Segmento Empresa**
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Entrevista 1</th>
+<th style="text-align: left;">Rosmel Gomez Benancio</th>
+</tr>
+<tr>
+<th style="text-align: left;">Edad</th>
+<th style="text-align: left;">29</th>
+</tr>
+<tr>
+<th style="text-align: left;">Distrito</th>
+<th style="text-align: left;">Lima</th>
+</tr>
+<tr>
+<th style="text-align: left;"><img src="./media/image55.png"
+style="width:2.97917in;height:0.86111in" /></th>
+<th style="text-align: left;">Alexandra Cabezas considera que la
+aplicación es muy intuitiva y fácil de entender para el público objetivo
+que sería los trabajadores, en que es fácil de subir un certificado
+académico o voluntariado entre las observaciones de mejora en el diseño
+seria que pueda ser más personalizable para cada tipo de empresa..</th>
+</tr>
+<tr>
+<th style="text-align: left;">URL de la grabación</th>
+<th style="text-align: left;"><a
+href="https://youtu.be/zR4g6P0ujY8"><u>https://youtu.be/zR4g6P0ujY8</u></a><br />
+<a
+href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/EZBKP5JpJdpGuJDuKxl-nloBkKZyq6gaw_hkgfCpmfGfUA?e=8hAZoZ"><u>Entrevistas
+2.mp4</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">Timing</th>
+<th style="text-align: left;">0:00 - 8:23</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Entrevista 2</th>
+<th style="text-align: left;">Nicole Macedo</th>
+</tr>
+<tr>
+<th style="text-align: left;">Edad</th>
+<th style="text-align: left;">22 años</th>
+</tr>
+<tr>
+<th style="text-align: left;">Distrito</th>
+<th style="text-align: left;">Cercado de Lima</th>
+</tr>
+<tr>
+<th style="text-align: left;"><img src="./media/image39.png"
+style="width:2.97917in;height:1.61111in" /></th>
+<th style="text-align: left;">Nicole durante las entrevistas se mostró
+asertiva y participativa durante la explicación del flujo. Nicole nos
+comenta que le parece una excelente idea la propuesta del Startup y que
+está muy a favor de que se puedan registrar logros a cambio de una
+recompensa. Además, Nicole menciona que le gustó la interfaz, le parece
+intuitiva y amigable a la vista.</th>
+</tr>
+<tr>
+<th style="text-align: left;">URL de la grabación</th>
+<th style="text-align: left;"><a
+href="https://youtu.be/zR4g6P0ujY8"><u>https://youtu.be/zR4g6P0ujY8</u></a><br />
+<a
+href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/EZBKP5JpJdpGuJDuKxl-nloBkKZyq6gaw_hkgfCpmfGfUA?e=8hAZoZ"><u>Entrevistas
+2.mp4</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">Timing</th>
+<th style="text-align: left;">8:23 - 16:14</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Entrevista 3</th>
+<th style="text-align: left;">Daniel García</th>
+</tr>
+<tr>
+<th style="text-align: left;">Edad</th>
+<th style="text-align: left;">22 años</th>
+</tr>
+<tr>
+<th style="text-align: left;">Distrito</th>
+<th style="text-align: left;">Breña</th>
+</tr>
+<tr>
+<th style="text-align: left;"><img src="./media/image119.png"
+style="width:2.97917in;height:1.66667in" /></th>
+<th style="text-align: left;">Daniel es un practicante de la carrera de
+Ingeniería Pesquera, se mostró comprometido al interactuar con el
+prototipo, realizaba preguntas acerca de las funcionalidades de los
+botones, y sobre el funcionamiento de las recompensas. Daniel nos
+comenta; como punto de mejora la reubicación del botón catálogo de
+recompensas ya que no se logra diferenciar entre los demás componentes
+de la pantalla.</th>
+</tr>
+<tr>
+<th style="text-align: left;">URL de la grabación</th>
+<th style="text-align: left;"><a
+href="https://youtu.be/zR4g6P0ujY8"><u>https://youtu.be/zR4g6P0ujY8</u></a><br />
+<a
+href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/EZBKP5JpJdpGuJDuKxl-nloBkKZyq6gaw_hkgfCpmfGfUA?e=8hAZoZ"><u>Entrevistas
+2.mp4</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">Timing</th>
+<th style="text-align: left;">16:14 - 22:51</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+### 7.3.3. Evaluaciones según heurísticas
+
+En base de las entrevistas hemos recolectado lo siguiente:
+
+- La plataforma SkillLedger fue percibida como moderna, clara y fácil de
+  usar desde el primer ingreso. La estructura visual y la navegación
+  permiten al usuario comprender rápidamente su funcionamiento, incluso
+  sin experiencia previa en herramientas similares.
+
+- La interacción con los distintos módulos (registro de logros, canje de
+  recompensas, visualización de rankings, etc.) Se consideró fluida e
+  intuitiva, lo que facilita la adopción y el uso recurrente de la
+  plataforma en el entorno laboral.
+
+- Los usuarios valoraron positivamente la organización de la información
+  en pantalla. Las visualizaciones de progreso, historial de recompensas
+  y métricas personales permiten entender el impacto de su desempeño y
+  fomentan la autogestión del desarrollo profesional.
+
+- SkillLedger genera un valor tanto funcional como emocional: a nivel
+  individual, los empleados sienten que su esfuerzo es visibilizado y
+  recompensado de forma justa; a nivel organizacional, fortalece la
+  cultura interna al promover hábitos positivos y alineación con los
+  valores corporativos.
+
+- La trazabilidad y transparencia aportadas por la tecnología blockchain
+  fueron destacadas como una garantía de justicia y objetividad en los
+  procesos de reconocimiento.
+
+- Los participantes manifestaron una actitud positiva hacia el uso
+  frecuente de SkillLedger, indicando que lo perciben como una
+  herramienta motivadora, que no sólo recompensa, sino que también
+  impulsa el crecimiento profesional y el compromiso con la empresa.
+
+## 7.4. Video About-the-Product
 
 ## Conclusiones
 
@@ -4005,3 +4809,12 @@ Video exposición TP:
 
 Link Landing Page:
 [<u>https://talentchain.netlify.app/</u>](https://talentchain.netlify.app/)
+
+About the Team Video:
+[<u>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/ESUY2Y-eJwpJjG0swKUONY0BDHtxURRvhXNhJJ5obFBQxQ?e=9w8rMm</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/ESUY2Y-eJwpJjG0swKUONY0BDHtxURRvhXNhJJ5obFBQxQ?e=9w8rMm)
+
+Entrevistas TB2:  
+[<u>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/EZBKP5JpJdpGuJDuKxl-nloBkKZyq6gaw_hkgfCpmfGfUA?e=8hAZoZ</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/EZBKP5JpJdpGuJDuKxl-nloBkKZyq6gaw_hkgfCpmfGfUA?e=8hAZoZ)
+
+Video Expo TB2:
+[<u>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/Ef6JFSwaedBIj_Lz9Ya1xooBKqEOJzPUO9XTqdKf3JzLZA?e=WoFDL5</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/Ef6JFSwaedBIj_Lz9Ya1xooBKqEOJzPUO9XTqdKf3JzLZA?e=WoFDL5)
